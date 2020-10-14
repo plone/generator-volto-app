@@ -5,6 +5,7 @@
 ### Changes
 
 - Add load-volto-addons to jest @tiberiuichim
+- Improve `.eslintrc.js` to include the addon registry @tiberiuichim
 
 ## 1.0.0-alpha.0 (2020-10-14)
 
